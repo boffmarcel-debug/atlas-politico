@@ -48,3 +48,8 @@ Para atualizar o site depois, basta enviar o novo `index.html` da mesma forma.
 - `#jogo` abre a aba do jogo.
 - `#professores` abre as trilhas e o guia.
 - `#federalismo`, `#democracia` e os demais nomes de ficha abrem a ficha correspondente.
+
+
+## Em juízo (novo)
+
+Na aba Jogo, um caso fictício que vai a júri, jogado de uma de três cadeiras: defesa, acusação ou juízo. Os outros papéis reagem às suas escolhas. Cada carta mostra o que diz a lei, com fontes oficiais conferidas em 3/11/2026. A nota mede o dever de cada instituição, não o veredito, e no fim o jogo mostra o que de fato aconteceu. Funciona sozinho ou no modo plenário, em que a turma vota cada decisão e sete estudantes formam o júri. Jogo educativo: não é orientação jurídica.
